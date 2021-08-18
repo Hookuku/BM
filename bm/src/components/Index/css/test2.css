@@ -1,0 +1,14 @@
+.baba {
+  width: 400px;
+  height: 400px;
+  position: relative; }
+  .baba .erzi {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -50px;
+    margin-top: -50px; }
+
+/*# sourceMappingURL=test2.css.map */
